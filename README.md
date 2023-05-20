@@ -8,10 +8,6 @@ A simple web application that displays highlights of my projects !
 * Google Fonts 
 * Fontawesome
 
-
-## Screenshots 
-!
-
 ## Getting Started
  [click here](https://gentle-profiterole-a48870.netlify.app/) to see the deployed app!
  
